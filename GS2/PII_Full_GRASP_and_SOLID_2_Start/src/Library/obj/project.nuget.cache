@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YAGkJWc0VnMxxRPm+QLuKSHmUz45rcNJqPstkeW+wcmua0kcSybxWHNKK6nVbOXh0+Wd5UfmnupJVsRnTnt08w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\GS2\\PII_Full_GRASP_and_SOLID_2_Start\\src\\Library\\Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
